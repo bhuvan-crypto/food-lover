@@ -1,0 +1,391 @@
+.navbar img{
+    margin: auto;
+    position: relative;
+    left: 45%;
+}
+
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color: #f99900!important;
+}
+.navbar{
+    background: #29282d;
+}
+
+*{
+
+}
+
+/* <!-- ************************************************pg 1 Starts **************************************** --> */
+
+
+.pgp1 img{
+    width: 100%;
+    height: 100%;
+}
+
+.pgp2 h1{
+    color: #f99900;
+}
+
+.pgp2 h2{
+    color: white;
+    margin: 10px 0px;
+    
+}
+
+.pgp2{
+    padding: 100px 0px;
+}
+
+.pgp2 button{
+    background: #f99900;
+    color: black;
+    padding: 15px 10px;
+    font-weight: bold;
+    margin: 10px ;
+}
+
+
+.pg1{
+    padding: 40px;
+    overflow: hidden;
+    background: black;
+}
+
+/* <!-- ************************************************pg 1 Ends **************************************** --> */
+
+
+/* <!-- ************************************************pg 2 Starts **************************************** --> */
+
+.pg2p1{
+    padding: 50px;
+}
+
+.pg2p1 img{
+    width: 100%;
+    height:100%;
+}
+
+.pg2p2{
+    padding: 200px 100px;
+}
+
+.pg2{
+    overflow: hidden;
+    background: black;
+}
+
+.pg2 h2 ,.pg2 h1{
+    color: white;
+}
+
+/* <!-- ************************************************pg 2 Ends **************************************** --> */
+
+/* <!-- ************************************************pg 3 Starts **************************************** --> */
+.pg3{
+    background:#f99900;
+    overflow: hidden;
+}
+
+.pg3 svg{
+    display: block;
+}
+
+.pg3p1
+{
+    padding: 80px 100px;
+    color: white;
+}
+
+.pg3p1 h1{
+    display: block;
+    margin: auto;
+}
+
+.pg3p1 p{
+    display: block;
+    font-size: 150%;
+}
+
+.pg3p2 img{
+    width: 100%;
+    height: 100%;
+}
+
+.pg3p2{
+    padding: 40px 120px;
+}
+
+/* <!-- ************************************************pg 3 Ends **************************************** --> */
+
+/* <!-- ************************************************pg 4 Starts **************************************** --> */
+
+.pg4 img {
+    width: 100%;
+    height: 100%;
+}
+
+.pg4{
+    background: black;
+    overflow: hidden;
+}
+
+.pg4p1{
+    padding: 0px 40px;
+}
+
+.pg4p2{
+    padding: 40px 40px;
+}
+
+
+.pg4p2 h1{
+    color: white;
+    
+}
+
+.pg4p2 p{
+    color: white;
+    font-size: 150%;
+    
+}
+
+.pg4 .sv{
+    background: #f99900;
+}
+/* <!-- ************************************************pg 4 Ends **************************************** --> */
+
+
+/* <!-- ************************************************pg 5 Starts **************************************** --> */
+
+.pg5{
+    padding: 40px;
+    background: #f99900;
+}
+
+.pg5 h1{
+    text-align: center;
+    color: white;
+    padding: 20px 0px;
+    font-weight: bold;
+}
+
+.pg5p{
+    padding: 30px;
+}
+
+.pg5p img{
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+/* <!-- ************************************************pg 5 Ends **************************************** --> */
+
+/* <!-- ************************************************pg 6 Starts **************************************** --> */
+
+.pg6p h1,.pg6p p{
+    text-align: center;
+    color: white;
+}
+
+.pg6{
+    position: relative;
+    height: 100vh;
+    background-image: linear-gradient(#645937,rgba(0,168,255,0.3)),url('../images/pg6img.jpg');
+
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+
+.pg6p{
+    border: solid #f99900 5px;
+    padding: 10px 10px;
+}
+
+.pg6p {
+    position: absolute;
+  top: 40%;
+  left: 30%;
+  right: 30%;
+  margin: -25px 0 0 -25px;
+}
+
+/* <!-- ************************************************pg 6 Ends **************************************** --> */
+
+
+/* <!-- ************************************************pg 7 Starts **************************************** --> */
+.pg7 h1{
+    text-align: center;
+    margin: 40px 0px;
+    color: white;
+}
+.pg7p img{
+    display: block;
+    margin: auto;
+    width: 70%;
+    height: 50%;
+}
+
+.pg7{
+    padding: 40px;
+    background: black;
+}
+
+.pg7p{
+    margin-bottom: 100px;
+}
+
+.pg7p h2{
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    color: #f99900;
+}
+
+.pg7p p{
+    text-align: center;
+    padding: 0px 80px;
+    color: white;
+}
+
+.pg7p .price{
+    text-align: center;
+    color: #f99900;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+/* <!-- ************************************************pg 7 Ends **************************************** --> */
+
+/* <!-- ************************************************pg 8 Starts **************************************** --> */
+
+.pg8{
+    background: linear-gradient(black,black, #f99900 , #36353b,  #36353b);
+    overflow: hidden;
+    position: relative;
+    /* height: 30vh; */
+}
+
+.pg8p1 img{
+    width: 100%;
+    height: 100%; 
+    padding: 100px;
+    margin: auto;
+}
+
+.pg8p2{
+    padding: 150px 100px ;
+    color: white;
+    height: auto;
+}
+
+.pg8p2 p{
+    font-size: 130%;
+}
+
+/* <!-- ************************************************pg 8 Ends **************************************** --> */
+
+/* <!-- ************************************************pg 9Starts **************************************** --> */
+
+.pg9 img{
+    display: block;
+    margin: auto;
+    
+}
+
+.pg9 ul{
+    display: flex;
+    padding: 40px 300px;
+
+}
+
+.pg9{
+    background: #36353b;
+    height: auto;
+}
+
+.pg9 ul li{
+    list-style: none;
+    margin: auto;
+    color: white;
+}
+
+.pg9 i{
+   padding: 20px;
+   color: white;
+}
+
+
+
+
+
+
+
+
+
+/* <!-- ************************************************meadia queries **************************************** --> */
+
+@media(max-width:991px){
+    .navbar img{
+        margin: auto;
+        position: relative;
+        left: 0%;
+    }
+
+    .pg2p2{
+        padding: 50px;
+    }
+
+    .pg3p1
+{
+    padding: 40px 20px;
+    color: white;
+}
+
+.pg3p2{
+    padding: 40px 20px;
+}
+.pg6p h1{
+    font-size: 2.5rem;
+}
+.pg6p{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    right: 10%;
+    margin: -25px 0 0 -25px;
+}
+
+.pg7p p{
+    padding: 0px 10px;
+}
+
+.pg8p2{
+    padding: 20px ;
+}
+
+.pg8p1 img{
+    padding: 10px;
+}
+
+.pg9 ul{
+    padding: 40px 10px;
+}
+
+.pg9 img{
+    width: 100%;
+    height: 100%;
+}
+
+.pg8{
+    height: auto;
+}
+
+}
